@@ -2,4 +2,5 @@ ccxt
 pandas
 numpy
 matplotlib
+python-dotenv
 
